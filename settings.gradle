@@ -1,0 +1,2 @@
+rootProject.name = "WeightLog"
+include ':app'

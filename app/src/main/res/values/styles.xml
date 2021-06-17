@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="roundImageShape" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">80dp</item>
+    </style>
+    <style name="OverFlow" parent="Widget.AppCompat.PopupMenu.Overflow">
+        <item name="actionOverflowButtonStyle">@style/OverFlow.Button</item>
+    </style>
+    <style name="OverFlow.Button" parent="Widget.AppCompat.PopupMenu.Overflow">
+        <item name="backgroundTint">@color/white</item>
+    </style>
+</resources>
